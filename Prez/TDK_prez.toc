@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.06pt}
+\select@language {magyar}
+\beamer@sectionintoc {1}{Bevezet\IeC {\'e}s}{2}{0}{1}
+\beamer@sectionintoc {2}{Hardver}{15}{0}{2}
+\beamer@sectionintoc {3}{Fejleszt\IeC {\H o}i k\IeC {\"o}rnyezet}{59}{0}{3}
+\beamer@sectionintoc {4}{Felhaszn\IeC {\'a}l\IeC {\'o}i fel\IeC {\"u}letek}{70}{0}{4}
+\beamer@sectionintoc {5}{Ut\IeC {\'o}sz\IeC {\'o}}{72}{0}{5}

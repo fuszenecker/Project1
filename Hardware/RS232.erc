@@ -1,0 +1,13 @@
+EAGLE Version 4.16r2 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for /home/hg8lhs/eagle/Project I./RS232.sch at  9/20/2007 21:30:02 
+
+WARNING: Sheet 1/1: POWER Pin IC1 GND connected to N$2
+WARNING: Sheet 1/1: POWER Pin IC1 GND connected to N$2
+WARNING: Sheet 1/1: POWER Pin IC1 GND connected to N$2
+WARNING: Sheet 1/1: POWER Pin IC1 GND connected to N$2
+
+Board and schematic are consistent
+
+    0 errors
+    4 warnings
